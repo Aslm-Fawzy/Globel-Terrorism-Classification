@@ -9,4 +9,4 @@
    5. Sources: Unclassified media articles (Note: Please interpret changes over time with caution. Global patterns are driven by diverse trends in particular regions, and data collection is influenced by fluctuations in access to media coverage over both time and place.)
    6. Shape : 181691 rows × 135 columns
    
-### For more information about dataset and problem : https://www.kaggle.com/START-UMD/gtd/
+ **For more information about dataset and problem :** https://www.kaggle.com/START-UMD/gtd/

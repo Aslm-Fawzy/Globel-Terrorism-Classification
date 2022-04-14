@@ -17,4 +17,4 @@
  
  **For more information about dataset and problem :** https://www.kaggle.com/START-UMD/gtd/
 
-![image](https://user-images.githubusercontent.com/78029611/163474263-1d4e789a-162a-4b7b-8f19-c1fae25a8c31.png)
+![image](https://user-images.githubusercontent.com/78029611/163474604-7b1a777f-1995-4d57-8138-7c054a1b8672.png)
